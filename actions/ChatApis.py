@@ -6,9 +6,6 @@
 
     图灵机器人(公司)闲聊系统API对接
     免费版只限每天调用100次，需联外网
-
-    :date: 2020-02-10 15:56:00
-    :author: by jiangdg
 """
 import requests
 import json

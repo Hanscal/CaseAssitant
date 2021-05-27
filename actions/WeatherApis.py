@@ -5,9 +5,6 @@
     ~~~~~~~~~
 
     使用心知天气数据查询天气
-
-    :date: 2020-02-10 15:56:00
-    :author: by jiangdg
 """
 
 import requests
